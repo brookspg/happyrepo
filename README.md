@@ -2,4 +2,4 @@
 rstudio::conf
 
 
-Please ReadMe.
+Please ReadMe. For real though, read.
